@@ -1,4 +1,4 @@
-const API_KEY = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODhkYTg0YzE2MDZkYjk5NjQ5ZTljZjk4MDRjY2NjZiIsInN1YiI6IjY3OGE0ZDQ2ZWZmZDBjMDEzNWM0YTllNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.WY8w8xgwvxBmLJbIB6lqRvmP8kLKA-bT0sVgJp1lL0U';
+const API_KEY = import.meta.env.VITE_TMDB_API_KEY;
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 export interface Movie {
