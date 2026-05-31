@@ -53,22 +53,22 @@
 # Pablo Isla
 
 ## Evidencia 1: Consumir endpoinst y renderizar información
-![alt text](isla/docs/prueba001.png)
+![Evidencia 1](isla/docs/prueba001.png)
 
 ## Evidencia 2: Limpiar proyecto
-![alt text](isla/docs/prueba002.png)
+![Evidencia 2](isla/docs/prueba002.png)
 
 ## Evidencia 3: Instalar tailwind
-![alt text](isla/docs/prueba003.png)
+![Evidencia 3](isla/docs/prueba003.png)
 
 ## Evidencia 4: configurar alias - -Instalar shadcn
-![alt text](isla/docs/prueba004.png)
+![Evidencia 4](isla/docs/prueba004.png)
 
 ## Evidencia 5: Configurar shadcn - Feching de datos
-![alt text](isla/docs/prueba005.png)
+![Evidencia 5](isla/docs/prueba005.png)
 
 ## Evidencia 6:Instalar y configurar axios -Mostrar por consola
-![alt text](isla/docs/prueba006.png)
+![Evidencia 6](isla/docs/prueba006.png)
 
 ## Evidencia 7: Renderizado de información
-![alt text](isla/docs/prueba007.png)
+![Evidencia 7](isla/docs/prueba007.png)
